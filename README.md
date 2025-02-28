@@ -12,14 +12,14 @@ To install the project, follow the instructions for your operating system:
 Open your terminal and run the following command:
 ##
 ```bash
-git clone https://github.com/rimu-7/react-vite-and-tailwind-themes.git && cd react-vite-and-tailwind-themes && rm -rf .git
+git clone https://github.com/rimu-7/vite-react-ts-tailwind.git && cd vite-react-ts-tailwind && rm -rf .git
 ```
 ##
 ### For Windows (Command Prompt)
 Open your Command Prompt and run the following command:
 
 ```bash
-git clone https://github.com/rimu-7/vite-react-ts-tailwind && cd /vite-react-ts-tailwind && rmdir /s /q .git
+git clone https://github.com/rimu-7/vite-react-ts-tailwind.git && cd vite-react-ts-tailwind && rmdir /s /q .git
 ```
 
 ### Additional Steps
